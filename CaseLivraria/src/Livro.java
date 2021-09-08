@@ -1,4 +1,4 @@
-public class Livro {
+public abstract class Livro implements Produto {
     private String nome;
     private String descricao;
     private double valor;
@@ -71,14 +71,6 @@ public class Livro {
 
 
     };
-
-    public boolean aplicaDescontoDe(double porcentagemDesconto){
-        if(porcentagemDesconto > 0.3){
-            return false;
-        }
-        this.valor -= this.valor * porcentagemDesconto;
-        return true;
-    }
 
     boolean temAutor(){
         return this.autor != null;

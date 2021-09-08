@@ -1,4 +1,4 @@
-public class Ebook extends Livro {
+public class Ebook extends Livro implements Promocional{
 
     private String waterMark;
 
@@ -11,7 +11,7 @@ public class Ebook extends Livro {
         if(porcentagem > 0.15){
             return false;
         }
-        return super.aplicaDescontoDe(porcentagem);
+        return aplicaDescontoDe(porcentagem);
     }
 
     public void setWaterMark(String waterMark){
