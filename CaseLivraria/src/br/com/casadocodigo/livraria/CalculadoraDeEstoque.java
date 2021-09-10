@@ -1,3 +1,5 @@
+package br.com.casadocodigo.livraria;
+
 public class CalculadoraDeEstoque {
     public static void main(String[] args) {
         // Para verificar o else if dos valores acima de 2000 vamos usar um looping
