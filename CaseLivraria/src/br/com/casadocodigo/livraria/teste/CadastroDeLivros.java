@@ -21,7 +21,7 @@ public class CadastroDeLivros {
 
 
 
-        livro.mostrarDetalhes();
+        livro.toString();
 
         Autor outroAutor = new Autor();
         outroAutor.setNome("Paulo Silveira");
@@ -36,7 +36,7 @@ public class CadastroDeLivros {
 
 
 
-        outroLivro.mostrarDetalhes();
+        outroLivro.toString();
 
 
 

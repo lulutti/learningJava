@@ -30,18 +30,8 @@ public class RegistroDeVendas {
 
 
         Produto[] produtos = carrinho.getProdutos();
-        for (int i = 0; i <= produtos.length; i++) {
-            try {
-                Produto produto = produtos[i];
-                if (produto != null) {
-                    System.out.println(produto.getValor());
-                }
-            } catch (ArrayIndexOutOfBoundsException e) {
-                System.out.println("deu exception no indice: " + i);
-                e.printStackTrace();
-            } catch (NullPointerException e){
-                System.out.println("A array não foi instanciada!");
-            }
+        for (Produto produto : produtos) {
+            System.out.println(produto.getValor());
         }
         System.out.println("Fui executado");
     }

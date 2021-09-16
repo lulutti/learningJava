@@ -64,7 +64,8 @@ public abstract class Livro implements Produto {
         this.valor = valor;
     }
 
-    public void mostrarDetalhes(){
+    @Override
+    public String toString(){
         String mensagem = "Mostrando detalhes do livro: " + this.nome;
         System.out.println(mensagem);
         System.out.println("Nome: " + nome);
@@ -79,6 +80,7 @@ public abstract class Livro implements Produto {
         System.out.println("--");
 
 
+        return mensagem;
     };
 
     boolean temAutor(){
