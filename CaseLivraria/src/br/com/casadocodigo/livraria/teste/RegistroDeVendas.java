@@ -22,7 +22,7 @@ public class RegistroDeVendas {
         ebook.setNome("Test-Driven Development");
         ebook.setValor(29.90);
 
-        Livro livro = new LivroFisico(null);
+        Livro livro = new LivroFisico(autor);
 
         CarrinhoDeCompras carrinho = new CarrinhoDeCompras();
         carrinho.adiciona(fisico);
