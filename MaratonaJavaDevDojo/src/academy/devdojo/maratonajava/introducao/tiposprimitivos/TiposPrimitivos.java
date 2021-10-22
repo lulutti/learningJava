@@ -6,10 +6,11 @@ public class TiposPrimitivos {
         // int, double, float, char, byte, short, long, boolean
         // nomes das variavéis em camelCase
         int integer = 1;
-        double doubleNumber = 1.7;
-        float floatNumber = 5000;
+        long biggerNumber = 1000000l;
+        double doubleNumber = 4000d;
+        float floatNumber = 2500.0f;
         byte byteNumber = 127;
-        short shortNumber = 6;
+        short shortNumber = 32000;
         boolean isTrue = true;
         char oneChar = 'a';
 
