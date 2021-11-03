@@ -1,28 +1,29 @@
-package academy.devdojo.maratonajava.javacore.metodos.dominio;
+package academy.devdojo.maratonajava.javacore.metodos.exercicio;
 
 public class Funcionario {
     private String nome;
     private int idade;
-    private int[] salarios;
+    private double[] salarios;
 
-    public Funcionario(String nome, int idade, int... salarios) {
+    public Funcionario(String nome, int idade, double... salarios) {
         this.nome = nome;
         this.idade = idade;
         this.salarios = salarios;
     }
 
-    public void imprime(){
+    public void imprime() {
         System.out.println("Nome: " + this.nome);
         System.out.println("Idade: " + this.idade);
         System.out.println("Salarios: ");
-        for(int salario : salarios){
+        for (double salario : salarios) {
             System.out.println(salario);
         }
+        mediaSalarial();
     }
 
-    public void mediaSalarial(){
-        int somaSalarios = 0;
-        for(int salario : salarios){
+    public void mediaSalarial() {
+        double somaSalarios = 0;
+        for (double salario : salarios) {
             somaSalarios += salario;
         }
         double media = somaSalarios / salarios.length;

@@ -17,5 +17,12 @@ public class CalculadoraTets01 {
         System.out.println("Dentro da CalculadoraTest");
         System.out.println("Num1: " + num1);
         System.out.println("Num2: " + num2);
+
+        // usando array
+        int[] numeros = {1,2,3,4,5};
+        calculadora.somaArray(numeros);
+
+        // usando varargs - tão é iterável, se comporta como uma array
+        calculadora.somaVarArgs(1,2,3,4,5);
     }
 }
