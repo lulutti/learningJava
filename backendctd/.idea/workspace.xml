@@ -2,25 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbfc9308-efe0-4f2c-9e51-fd77cec41295" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exintegrador01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exintegrador01/Afiliado.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exintegrador01/Estagiario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exintegrador01/Funcionario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exintegrador01/Teste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exintegrador01/Vendedor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Afiliado.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Estagiario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Funcionario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Teste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vendedor.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaratonaJavaDevDojo/src/academy/devdojo/maratonajava/javacore/modificadorestatico/domain/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaratonaJavaDevDojo/src/academy/devdojo/maratonajava/javacore/modificadorestatico/test/CarroTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaratonaJavaDevDojo/out/production/JavaDevDojo/academy/devdojo/maratonajava/javacore/metodos/dominio/Calculadora.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MaratonaJavaDevDojo/out/production/JavaDevDojo/academy/devdojo/maratonajava/javacore/metodos/dominio/Calculadora.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaratonaJavaDevDojo/out/production/JavaDevDojo/academy/devdojo/maratonajava/javacore/metodos/test/CalculadoraTets01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MaratonaJavaDevDojo/out/production/JavaDevDojo/academy/devdojo/maratonajava/javacore/metodos/test/CalculadoraTets01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaratonaJavaDevDojo/out/production/JavaDevDojo/academy/devdojo/maratonajava/javacore/metodos/test/EstudanteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MaratonaJavaDevDojo/out/production/JavaDevDojo/academy/devdojo/maratonajava/javacore/metodos/test/EstudanteTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaratonaJavaDevDojo/src/academy/devdojo/maratonajava/javacore/blocosinicializacao/domain/Anime.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MaratonaJavaDevDojo/src/academy/devdojo/maratonajava/javacore/blocosinicializacao/domain/Anime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaratonaJavaDevDojo/src/academy/devdojo/maratonajava/javacore/blocosinicializacao/test/AnimeTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MaratonaJavaDevDojo/src/academy/devdojo/maratonajava/javacore/blocosinicializacao/test/AnimeTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaratonaJavaDevDojo/src/academy/devdojo/maratonajava/javacore/metodos/dominio/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MaratonaJavaDevDojo/src/academy/devdojo/maratonajava/javacore/metodos/dominio/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaratonaJavaDevDojo/src/academy/devdojo/maratonajava/javacore/metodos/exercicio/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MaratonaJavaDevDojo/src/academy/devdojo/maratonajava/javacore/metodos/exercicio/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaratonaJavaDevDojo/src/academy/devdojo/maratonajava/javacore/metodos/exercicio/FuncionarioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MaratonaJavaDevDojo/src/academy/devdojo/maratonajava/javacore/metodos/exercicio/FuncionarioTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaratonaJavaDevDojo/src/academy/devdojo/maratonajava/javacore/metodos/test/CalculadoraTets01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MaratonaJavaDevDojo/src/academy/devdojo/maratonajava/javacore/metodos/test/CalculadoraTets01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaratonaJavaDevDojo/src/academy/devdojo/maratonajava/javacore/metodos/test/EstudanteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MaratonaJavaDevDojo/src/academy/devdojo/maratonajava/javacore/metodos/test/EstudanteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exintegrador01/exintegrador01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exintegrador01/exintegrador01.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +41,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exintegrador01" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -84,5 +78,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
