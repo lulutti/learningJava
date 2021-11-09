@@ -1,6 +1,6 @@
 package academy.devdojo.maratonajava.javacore.exceptions.runtime.test;
 
-public class RuntineExceptionTest01 {
+public class RuntimeExceptionTest01 {
     // Checked - filhas diretas de Exception, apresentam a exceção antes mesmo de compilar
     // Unchecked - neta de Exception, filhas de RuntimeException - são lançadas durante a execução do programa
     public static void main(String[] args) {
