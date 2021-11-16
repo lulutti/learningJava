@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ca07f91-2ddf-482a-a6bc-9317b8ec6ade" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../MaratonaJavaDevDojo/src/academy/devdojo/maratonajava/javacore/io/test/BufferedReaderTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MaratonaJavaDevDojo/src/academy/devdojo/maratonajava/javacore/io/test/BufferedWriterTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MaratonaJavaDevDojo/src/academy/devdojo/maratonajava/javacore/io/test/FileReaderTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MaratonaJavaDevDojo/src/academy/devdojo/maratonajava/javacore/io/test/FileTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MaratonaJavaDevDojo/src/academy/devdojo/maratonajava/javacore/io/test/FileTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MaratonaJavaDevDojo/src/academy/devdojo/maratonajava/javacore/io/test/FileWriterTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MaratonaJavaDevDojo/src/academy/devdojo/maratonajava/javacore/regex/test/ScannerTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MaratonaJavaDevDojo/src/academy/devdojo/maratonajava/javacore/regex/test/ScannerTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MaratonaJavaDevDojo/archive/teste.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2102ZWqDmNbXuno5vhx1lxUmLNC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ClothesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ExIntegrador03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.ClothesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ClothesTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ca07f91-2ddf-482a-a6bc-9317b8ec6ade" name="Changes" comment="" />
+      <created>1637063742117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637063742117</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
