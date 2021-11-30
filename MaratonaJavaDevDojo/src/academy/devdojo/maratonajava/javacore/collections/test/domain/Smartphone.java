@@ -26,6 +26,14 @@ public class Smartphone {
         return serialNumber != null && serialNumber.equals(smartphone.serialNumber);
     }
 
+    @Override
+    public String toString() {
+        return "Smartphone{" +
+                "serialNumber='" + serialNumber + '\'' +
+                ", marca='" + marca + '\'' +
+                '}';
+    }
+
     // se x.equals(y) == true, y.hashCode() tem que ser igual a x.hashcode
     // se temos y.hashCode() == x.hashCode() não necessariamente o equals entre eles será true
     // se x.equals(y) == false então os hashcodes serão diferentes
